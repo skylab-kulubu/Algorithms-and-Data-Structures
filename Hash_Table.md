@@ -7,7 +7,7 @@ Böylece, verinin boyutundan bağımsız olarak ekleme ve arama işlemlerinin ç
 
 All: amortized O(1), worst O(n)
 
-[#complexity](complexity.md) [#hashtable](hashtable.md)
+[#complexity](complexity.md) [#hashtable](Hash_Table.md)
 
 ## Hash table gerçekleştirilmesi
 Bir hash tablosu anahtarları(key) değerlerle(value) eşleştiren bir veri yapısıdır. Bir dizi anahtar değeri bir dizinin bir dizi dizinine dönüştürme tekniğidir. Anahtarları değerlerle eşleştirebilen bir yapı olan ilişkilendirilebilir bir dizi uygulamak için kullanılır. Bir Karma Tablosu (hash table), bir dizini, istenen değerin bulunabileceği bir grup veya yuva dizisi halinde hesaplamak için bir karma işlevi kullanır. Wikipedia’dan.
